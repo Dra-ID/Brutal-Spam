@@ -14,3 +14,9 @@ Script Spam WhatsApp Brutal🤓
 > sh module.sh
 
 > Selesai >_
+
+# informasi
+Viewers 
+<p align=left> <img src=https://komarev.com/ghpvc/?username=SpamWagas alt=Dra-ID/> </p>
+
+Thanks sanzzXD 
