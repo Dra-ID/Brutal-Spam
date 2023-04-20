@@ -20,3 +20,11 @@ Viewers
 <p align=left> <img src=https://komarev.com/ghpvc/?username=SpamWagas alt=Dra-ID/> </p>
 
 Thanks sanzzXD 
+
+' ' ' 
+
+Yang Belom ngerti cara pake 
+nya bisa klik link ini
+https://youtu.be/SvaUltULcOY 
+
+' ' '
