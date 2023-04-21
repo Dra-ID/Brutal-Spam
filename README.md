@@ -4,6 +4,8 @@ Script Spam WhatsApp Brutal🤓
 ```
 pkg Install python
 
+pip install inquirer
+
 rm -rf Brutal-Spam
 
 git clone https://github.com/Dra-ID/Brutal-Spam
