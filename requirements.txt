@@ -1,0 +1,8 @@
+requests
+bs4
+datetime
+rich
+colorama
+pyfiglet
+tqdm 
+inquirer
