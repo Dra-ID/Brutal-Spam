@@ -18,10 +18,10 @@ Selesai >_
 Viewers 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=SpamWagas alt=Dra-ID/> </p>
 
-Thanks sanzzXD 
+## ```Thanks For 🔥```
+[![sanzzxd](https://github.com/sanzzxd.png?size=50)](https://github.com/sanzzxd)
+## SanzzXD
 
-# Tutorial 
-Yang Belom ngerti cara pake 
-nya bisa klik link ini
-https://youtu.be/SvaUltULcOY 
+<li><code>Lihat tutorial nya
+<a href="https://youtu.be/SvaUltULcOY">Tutorial</a></code></li> 
 
