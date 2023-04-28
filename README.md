@@ -1,20 +1,15 @@
 # Brutal-Spam
 Script Spam WhatsApp Brutal🤓
 # Package
-```
+```Bash
 pkg Install python
-
 pip install inquirer
-
 rm -rf Brutal-Spam
-
 git clone https://github.com/Dra-ID/Brutal-Spam
-
 cd Brutal-Spam
-
+pip install -r requirements.txt
 git pull
-
-sh module.sh
+python 
 
 Selesai >_
 ```
