@@ -3,8 +3,9 @@ Script Spam WhatsApp Brutal🤓
 # Package
 ```Bash
 pkg update && pkg upgrade 
-pkg Install python
-pkg Install python2 
+pkg install python
+pkg install python-pip
+pkg install python2 
 rm -rf Brutal-Spam
 git clone https://github.com/Dra-ID/Brutal-Spam
 cd Brutal-Spam
