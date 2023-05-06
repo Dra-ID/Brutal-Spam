@@ -6,3 +6,7 @@ pip install colorama
 pip install pyfiglet
 pip install tqdm
 pip install inquirer
+
+sleep 3
+
+python run.py
