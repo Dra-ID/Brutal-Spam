@@ -5,14 +5,14 @@ Script Spam WhatsApp Brutal🤓
 
 <p align="center">
 
-  <a href="https://github.com/Dra-ID"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Sewaktu+waktu+tools+ini+akan" alt="UwU">
+  <a href="https://github.com/Dra-ID"><img src="http://readme-typing-svg.herokuapp.com?color=BF00FF&center=true&vCenter=true&multiline=false&lines=Sewaktu+waktu+tools+ini+akan" alt="UwU">
 
-  <a href="https://github.com/Dra-ID"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=expired+jadi+gunakan+dengan+bijak+!" alt="UwU">
+  <a href="https://github.com/Dra-ID"><img src="http://readme-typing-svg.herokuapp.com?color=BF00FF&center=true&vCenter=true&multiline=false&lines=expired+jadi+gunakan+dengan+bijak+!" alt="UwU">
 
 </p>
 
 # Package
-```Bash
+```python
 pkg update && pkg upgrade 
 pkg install python
 pkg install python-pip
@@ -28,6 +28,11 @@ python run.py
 
 Selesai >_
 ```
+# Subs
+<p align="center">
+
+  <a href="https://github.com/Dra-ID"><img src="http://readme-typing-svg.herokuapp.com?color=BF00FF&center=true&vCenter=true&multiline=false&lines=SUBSCRIBE+CHANNEL+Vindra+ID" alt="UwU">
+<p
 # informasi
 Viewers 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=SpamWagas alt=Dra-ID/> </p>
