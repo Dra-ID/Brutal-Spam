@@ -22,7 +22,7 @@ rm -rf Brutal-Spam
 git clone https://github.com/Dra-ID/Brutal-Spam
 cd Brutal-Spam
 ls
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 git pull
 python run.py
 
