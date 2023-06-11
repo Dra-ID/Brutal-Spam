@@ -1,5 +1,5 @@
 pip install requests
-pip install bs4
+pip install beautifulsoup4
 pip install datetime
 pip install rich
 pip install colorama
